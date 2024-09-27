@@ -47,6 +47,9 @@ Hare un árbol navideño, este árbol navideño estará adornado con luces led l
 # Link de la simulación:
 ## https://wokwi.com/projects/409619347989413889 
 
+# Link para la simulacion del personaje navideño
+## https://wokwi.com/projects/410222157625337857 
+
 # Link del Video Explicativo del funcionamiento:
 ## https://youtu.be/JwCUlUH6wEM?feature=shared
 
